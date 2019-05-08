@@ -1,0 +1,24 @@
+h1, h2, h3{
+    color: black; 
+}
+li{
+    color: blue;
+}
+
+body{
+    background-color: slateblue
+    text-align center;
+    color: black;
+    }
+ul{
+    list-style: nome;
+}
+img{
+border-radius: 100%; 
+        width:  50%;
+}
+        
+    div{
+        display: inline-block;
+        width: 50%;
+    }
